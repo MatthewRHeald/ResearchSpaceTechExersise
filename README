@@ -1,3 +1,13 @@
 
-
+Running instructions
 Set your api key as the environment variable API_KEY
+
+Run using the sample id you want to query as the argument for the command you run it with
+
+I'm new to Spring boot so most of this is based heavily on examples and auto generated projects. I
+spent most of the time I allocated to this divided between learning how things were put together 
+and working while I got something simple working. I then spent the remaining time cleaning it.
+Were I to put more time into this, I would have researched how to add automated test to what I have 
+put in and beyond that, I would have looked to add more functionality. My initial thoughts would be to 
+expand access to subSample information. Though that is based on my initial overlook of the api and
+I may have chosen to do something else if it looked more useful.
